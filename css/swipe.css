@@ -223,7 +223,7 @@ body {
     width: 70%;
 
     position: absolute;
-    bottom: 75px;
+    bottom: 125px;
     left: 65px;
 }
 
@@ -256,7 +256,7 @@ body {
 
 .swiper-slide-active .focus-in-expand-fwd3 {
     position: absolute;
-    bottom: 210px;
+    bottom: 250px;
     left: 127px;
     -webkit-animation: focus-in-expand-fwd 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s both;
     animation: focus-in-expand-fwd 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1.5s both;
@@ -457,7 +457,7 @@ body {
 }
 
 .swiper-slide-active .shake-verticals-1 {
-    width: 80%;
+    width: 88%;
     /* height: 100%; */
     -webkit-animation: shake-vertical 5s cubic-bezier(0.455, 0.030, 0.515, 0.955) 0.7s infinite both;
     animation: shake-vertical 5s cubic-bezier(0.455, 0.030, 0.515, 0.955) 0.7s infinite both;
